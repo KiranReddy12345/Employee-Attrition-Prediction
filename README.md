@@ -1,5 +1,6 @@
 # Employee Attrition Prediction 
 
+![employee-churn](https://github.com/KiranReddy12345/Employee-Attrition-Prediction/assets/145300197/8b350bc5-1615-45c9-98d9-d3c230c72ad1)
 
 
 The term "Employee Attrition" describes when employees leave a company, either
